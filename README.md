@@ -79,5 +79,5 @@ exploring = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gertrudisrms04&layout=compact&hide_border=true&title_color=bc2337&text_color=555555&bg_color=00000000" alt="Top languages">
+  <sub>Have a dataset or a model that needs a second pair of eyes? <a href="mailto:gertrudisrms04@gmail.com">Let's talk.</a></sub>
 </p>
